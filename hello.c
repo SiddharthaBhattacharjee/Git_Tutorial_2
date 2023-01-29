@@ -3,6 +3,6 @@
 int main(){
     printf("Hello, World!");
     printf("This is git session");
-    printf("This is git session1");
+    printf("I am in github");
     return 0;
 }
