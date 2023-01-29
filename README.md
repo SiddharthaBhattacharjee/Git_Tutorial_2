@@ -32,3 +32,6 @@ check [here](https://twitter.com/Siddhartha_2345) to see my twitter
 
 This is how you add image in markdown : <br>
 <pre> ![Git Icon](https://cdn.iconscout.com/icon/free/png-512/social-285-116319.png?w=256&f=avif) </pre>
+<br>
+
+Go to ordered list by clicking [here](https://github.com/SiddharthaBhattacharjee/Git_Tutorial_2/edit/master/README.md#ordered-list-)
